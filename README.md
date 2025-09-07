@@ -1,4 +1,4 @@
-# CK1 Coliseu
+# Refressao linear
 
 Este repositório contém o notebook **CK1_coliseu.ipynb**, desenvolvido para análises e exploração de dados.
 
